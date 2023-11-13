@@ -19,9 +19,8 @@ with col2:
     st.info(content)
 
 content2 = """
-            I'm highly enthusiastic about coding and constantly exploring new ways to leverage Python to
-            create innovative solutions. I'm eager to collaborate, learn, and grow in the exciting world
-            of software development.
+            Below, you'll find a few projects I've worked on using Python. Feel free to reach out if you're
+            interested in similar projects or if you have any questions.
             """
 st.write(content2)
 
